@@ -34,7 +34,7 @@ A elaboração deste whitepaper seguiu três etapas principais:
 
   # Acesso ao Whitepaper
 O whitepaper completo está disponível em PDF neste repositório:  
- [Download do Whitepaper](./APT29_Whitepaper.pdf)  
+ [Download do Whitepaper](./APT29_whitepaper.pdf)  
 
  ## 🔗 Referências principais
 - [NCC Group Research – DNS Tunneling Techniques](https://research.nccgroup.com/2020/04/08/dns-tunneling-techniques/)  
